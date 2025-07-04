@@ -27,3 +27,7 @@ This is a simple **Banking System Project** built using **C++** with the concept
 g++ bankingsystem.cpp -o banking
 ./banking
 
+```
+## 📌 Note
+
+This project is for educational purposes only. Contributions and improvements are welcome!
